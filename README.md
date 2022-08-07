@@ -25,6 +25,12 @@
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/david-swisa-2265b137/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+  
+<h2>  GitHub stats </h2>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidswisa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![david swisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidswisa)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 davidswisa/davidswisa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
