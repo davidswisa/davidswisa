@@ -8,16 +8,16 @@
 
 <p align="center">
   <img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="40" />
-  <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/docker.png"/> </a>
-  <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/kubernetes.png"/> </a>
-  <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/fluency/48/terraform.png"/> </a>
-  <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/golang.png"/> </a>
+  <a href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/color/48/docker.png"/> </a>
+  <a href="https://kubernetes.io/" target="_blank"> <img src="https://img.icons8.com/color/48/kubernetes.png"/> </a>
+  <a href="https://www.terraform.io/" target="_blank"> <img src="https://img.icons8.com/fluency/48/terraform.png"/> </a>
+  <a href="https://go.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/golang.png"/> </a>
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/python--v2.png"/> </a>
   <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-  <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
-  <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
-  <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-  <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+  <a href="https://nodejs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
+  <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
+  <a href="https://html.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+  <a href="https://web.dev/learn/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
   
   
   
@@ -28,7 +28,9 @@
 </p>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/david-swisa-2265b137/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+
+<a href="https://www.linkedin.com/in/david-swisa-2265b137/" target="_blank"> <img src="https://img.icons8.com/fluency/48/linkedin.png"/> </a>
+
   
 <h2>  GitHub stats </h2>
   
